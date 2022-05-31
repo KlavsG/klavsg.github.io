@@ -170,7 +170,6 @@ input,textarea {
 
     display: flex;
     flex-direction: column;
-    justify-content: baseline;
 }
 
 .group-img {
