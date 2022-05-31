@@ -970,6 +970,7 @@ form {
 
     .imggroup-md {
         display: block;
+        max-width: 100%;
     }
 
     .img-group {
